@@ -61,7 +61,6 @@ Running-Logbook/
 
 ## Future Improvements
  
-- Add input validation to prevent invalid entries  
 - Implement file storage for persistent data  
 - Add ability to edit or delete runs  
 - Support additional metrics (calories burned)  
